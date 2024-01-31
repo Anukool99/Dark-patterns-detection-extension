@@ -1,4 +1,5 @@
-# Oliver-Dark Pattern Detection Chrome Extension
+![logo](https://github.com/Anukool99/Oliver-The-dark-pattern-detection-extension/assets/75672859/74a6f725-e310-46a0-aad6-d6d0ff6fbd4b)
+# Oliver-Dark Pattern Detection Browser Extension
 
 ## Overview
 
